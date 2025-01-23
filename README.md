@@ -2,15 +2,15 @@
 
 #### Welcome to the Data Structures and Algorithms Coding Interview Bootcamp with Python!
 
-The primary goal of this course is to prepare you for coding interviews at top tech companies. By tackling one problem at a time and understanding its solution, you'll accumulate a variety of tools and techniques for conquering any coding interview.
+The primary goal of this challenge is to prepare myself for coding interviews at top tech companies. By tackling one problem at a time and understanding its solution, I'll accumulate a variety of tools and techniques for conquering any coding interview.
 
 ## Daily Data Structures and Algorithms Coding Challenges:
 
-The course is structured around daily coding challenges. Consistent practice will equip you with the skills required to ace coding interviews. For the next 40 days commit to yourself to practice atleast 2 coding interview questions everyday. 
+The course is structured around daily coding challenges. Consistent practice will equip me with the skills required to ace coding interviews. For the next 40 days I'll commit myself to practice atleast 2 coding interview questions everyday. 
 
 ## Topics Covered:
 
-We start from the basics with Big O analysis, then move on to very important algorithmic techniques such as Recursion, Backtracking and Dynamic Programming Patters. After this we move to cover common data structures, and discuss real problems asked in interviews at tech giants such as Google, Meta, Amazon, Netflix, Apple, and Microsoft.
+We start from the basics with Big O analysis, then move on to very important algorithmic techniques such as Recursion, Backtracking and Dynamic Programming Patterns. After this we move to cover common data structures, and discuss real problems asked in interviews at tech giants such as Google, Meta, Amazon, Netflix, Apple, and Microsoft.
 
 
 ## Challenge Outline:
