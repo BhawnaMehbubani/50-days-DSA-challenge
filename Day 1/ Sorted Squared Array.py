@@ -28,4 +28,12 @@ def sorted_squared(array):
 
     # Since we appended in reverse order, reverse the result to get sorted order
     return result[::-1]
-    
+
+'''
+The function uses a two-pointer approach to square the elements in a sorted array and build the result in one pass. It compares squares from both ends, appending the larger one to the result.
+
+Time Complexity**: O(n) (single pass through the array)
+Space Complexity: O(n) (storing the result array)
+
+This is more efficient than the brute force approach, which would involve sorting the squared numbers.
+'''
