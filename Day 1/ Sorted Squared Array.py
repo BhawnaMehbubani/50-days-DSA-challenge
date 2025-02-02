@@ -35,5 +35,5 @@ The function uses a two-pointer approach to square the elements in a sorted arra
 Time Complexity**: O(n) (single pass through the array)
 Space Complexity: O(n) (storing the result array)
 
-This is more efficient than the brute force approach, which would involve sorting the squared numbers.
+This is more efficient than the brute force approach, which would involve sorting the squared numbers. 
 '''
