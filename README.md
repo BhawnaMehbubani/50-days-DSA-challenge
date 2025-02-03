@@ -1,4 +1,4 @@
-## About the Challenge:
+# About the Challenge:
 
 #### Welcome to the Data Structures and Algorithms Coding Interview Bootcamp with Python!
 
